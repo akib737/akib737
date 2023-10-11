@@ -2,7 +2,7 @@
 ---
 #### I work as a front-end developer based in Khulna, Bangladesh ![002-home](https://user-images.githubusercontent.com/44940208/188609409-76120c83-99b1-442e-99db-cbfdeac17992.png). I always try to grow myself and excited to learn something new craftz.
 ```
-const technology = ["Vite", "Next", "JavaScript", "Tailwind CSS"];
+const technology = ["Vite.js", "Next.js", "JavaScript", "Tailwind CSS"];
 ```
 ---
 ### I'm focusing on![001-laptop-computer](https://user-images.githubusercontent.com/44940208/188852337-3b25840d-250f-415c-9d15-1bc0e1f98bdd.png)
