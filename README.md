@@ -1,4 +1,4 @@
-## Hey👋, I'm Akib.
+## Hi👋, I'm Akib.
 ---
 #### I work as a Front-end Engineer based in Khulna, Bangladesh ![002-home](https://user-images.githubusercontent.com/44940208/188609409-76120c83-99b1-442e-99db-cbfdeac17992.png). I always try to grow myself and excited to learn something new craftz.
 ```
